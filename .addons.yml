@@ -4,4 +4,4 @@ addons:
   tvheadend:
     repository: meganoob1337/addon-tvheadend
     target: tvheadend
-    image: ghcr.io/meganoob1337/tvheadend/{arch}
+    image: ghcr.io/gauthamvarmak/tvheadend/{arch}
