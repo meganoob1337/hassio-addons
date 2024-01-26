@@ -14,7 +14,7 @@ devices:
  - /dev/dvb/adapter1/dvr0
  - /dev/dvb/adapter1/frontend0
  - /dev/dvb/adapter1/net0
-image: ghcr.io/GauthamVarmaK/tvheadend/{arch}
+image: ghcr.io/gauthamvarmak/tvheadend/{arch}
 init: false
 map:
 - config:rw
@@ -35,6 +35,6 @@ schema:
   - str
 slug: tvheadend
 stage: experimental
-url: https://github.com/GauthamVarmaK/addon-tvheadend
+url: https://github.com/meganoob1337/addon-tvheadend
 version: 2.4.4
 webui: http://[HOST]:[PORT:9981]/
