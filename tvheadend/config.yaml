@@ -14,7 +14,7 @@ devices:
  - /dev/dvb/adapter1/dvr0
  - /dev/dvb/adapter1/frontend0
  - /dev/dvb/adapter1/net0
-image: ghcr.io/meganoob1337/tvheadend/{arch}
+image: ghcr.io/GauthamVarmaK/tvheadend/{arch}
 init: false
 map:
 - config:rw
