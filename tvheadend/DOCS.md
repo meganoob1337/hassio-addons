@@ -1,4 +1,4 @@
-# Home Assistant Community Add-on: TVHeadend
+# Home Assistant Community Add-on: TVHeadend2
 
 TVHeadend is a TV streaming server and recorder supporting:
 DVB-S, DVB-S2, DVB-C, DVB-T, DVB-T2, ATSC, ISDB-T, IPTV, SAT>IP and HDHomeRun
